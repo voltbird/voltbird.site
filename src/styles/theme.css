@@ -12,7 +12,7 @@
 
 /* Light theme values */
 :root,
-[data-theme="light"] {
+[data-theme="dark"] {
   --background: #fdfdfd;
   --foreground: #282728;
   --accent: #006cac;
@@ -23,7 +23,7 @@
 }
 
 /* Dark theme values */
-[data-theme="dark"] {
+[data-theme="light"] {
   --background: #212737;
   --foreground: #eaedf3;
   --accent: #ff6b01;
