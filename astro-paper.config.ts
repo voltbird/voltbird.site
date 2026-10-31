@@ -3,13 +3,13 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://voltbird-site.pages.dev/",
-    title: "VoltBird | Sanjay S",
+    title: "VoltBird",
     description: "Wassup! Check this out.",
     author: "Sanjay S",
     profile: "https://voltbird-site.pages.dev/",
-    ogImage: "default-og.jpg",
+    ogImage: "default-og.png",
     lang: "en",
-    timezone: "Europe/Amsterdam",
+    timezone: "Asia/Kolkata",
     dir: "ltr",
   },
   posts: {
