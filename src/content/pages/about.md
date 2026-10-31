@@ -9,4 +9,4 @@ Too Lazy to write about me now... :(
 
 He/Him🔥
 
-<img src="/src/assets/images/elephant.png" width="600" height="903">
+<img src="/images/elephant.png" width="600" height="903">
