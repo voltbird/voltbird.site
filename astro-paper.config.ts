@@ -6,7 +6,7 @@ export default defineAstroPaperConfig({
     title: "VoltBird | Sanjay S",
     description: "Wassup! Check this out.",
     author: "Sanjay S",
-    profile: ,
+    profile: "https://voltbird-site.pages.dev/",
     ogImage: "default-og.jpg",
     lang: "en",
     timezone: ,
