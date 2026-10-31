@@ -1,7 +1,7 @@
 ---
 title: First Post
 author: Sanjay S
-pubDatetime: 2026-11-1T00:40:00.000+00:00
+pubDatetime: 2026-11-1T00:40:00.000+05:30
 slug: voltbird-first-post
 featured: false
 draft: false
