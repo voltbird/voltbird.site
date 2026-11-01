@@ -2,11 +2,11 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://voltbird-site.pages.dev/",
+    url: "https://voltbird.fyi",
     title: "VoltBird",
     description: "Wassup! Check this out.",
     author: "Sanjay S",
-    profile: "https://voltbird-site.pages.dev/",
+    profile: "https://voltbird.fyi",
     ogImage: "default-og.png",
     lang: "en",
     timezone: "Asia/Kolkata",
@@ -23,8 +23,7 @@ export default defineAstroPaperConfig({
     showArchives: true,
     showBackButton: true,
     editPost: {
-      enabled: true,
-      url: "https://github.com/voltbird/voltbird.site/edit/main/",
+      enabled: false,
     },
     search: "pagefind",
   },
