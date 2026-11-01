@@ -3,7 +3,7 @@ title: "About"
 description: "A bit about me and this blog."
 ---
 
-Learning a bit of Python and procrastinating in learing C and Rust.
+Learning a bit of Python and procrastinating in learning C and Rust.
 
 Too Lazy to write about me now... :(
 

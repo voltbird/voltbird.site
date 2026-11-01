@@ -14,7 +14,7 @@ timezone: "Asia/Kolkata"
 
 ## What Am I Doing?
 
-I am creating a website for myself. This is the place for me to showcase the things I have done big and small (for now mostly small). This is also going to act as a place for self-reflecion and help me see how far i have reached. 
+I am creating a website for myself. This is the place for me to showcase the things I have done big and small (for now mostly small). This is also going to act as a place for self-reflecion and help me see how far I have reached. 
 
 ## Why am I Doing this?
 
