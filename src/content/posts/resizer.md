@@ -16,7 +16,7 @@ timezone: "Asia/Kolkata"
 
 <img src="/images/RESIZER v1.png" align = "center"><p align ="center"><b>RESIZER v1.0</b></p>
 
-After JEE, while registering for JOSAA and CSAB, I ran into a problem. There were multiple documents to be uploaded, but they were too large to upload, and the site wouldn't accept them. So I had to shrink them one by one which was time-consuming. As a result this experience RESIZER was created. This helped me resize multiple images effortlessly and could help you too.
+After JEE, while registering for JOSAA and CSAB, I ran into a problem. There were multiple documents to be uploaded, but they were too large to upload, and the site wouldn't accept them. So I had to shrink them one by one which was time-consuming. As a result of this experience RESIZER was created. This helped me resize multiple images effortlessly and could help you too.
 
 The repository can be found [here.](https://github.com/voltbird/RESIZER)
 
